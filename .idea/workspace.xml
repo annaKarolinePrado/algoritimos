@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado projeto para estudo de lógica de programação.">
-      <change afterPath="$PROJECT_DIR$/src/pagina_18/Exercicio02.java" afterDir="false" />
+    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado algoritimo para validar se um número é par ou impar..">
+      <change afterPath="$PROJECT_DIR$/src/pagina_18/Exercicio03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercicio02">
+  <component name="RunManager" selected="Application.Exercicio03">
     <configuration name="Exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pagina_18.Exercicio01" />
       <module name="estrutura_basica" />
@@ -60,8 +60,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pagina_18.Exercicio03" />
+      <module name="estrutura_basica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pagina_18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio03" />
         <item itemvalue="Application.Exercicio02" />
         <item itemvalue="Application.Exercicio01" />
       </list>
@@ -84,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698801943482</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Criado algoritimo para validar se um número é par ou impar..">
+      <option name="closed" value="true" />
+      <created>1698803136673</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698803136673</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criado projeto para estudo de lógica de programação." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado projeto para estudo de lógica de programação." />
+    <MESSAGE value="Criado algoritimo para validar se um número é par ou impar.." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado algoritimo para validar se um número é par ou impar.." />
   </component>
 </project>
