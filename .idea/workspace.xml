@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado algorítimo para calcular a média de três notas e mostrar se o aluo foi aprovado ou reprovado.">
-      <change afterPath="$PROJECT_DIR$/src/pagina_18/Exercicio06.java" afterDir="false" />
+    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado algorítimo para calcular o maior entre dois números.">
+      <change afterPath="$PROJECT_DIR$/src/pagina_18/Exercicio07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,20 +39,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercicio06">
-    <configuration name="Exercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pagina_18.Exercicio02" />
-      <module name="estrutura_basica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pagina_18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercicio07">
     <configuration name="Exercicio03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pagina_18.Exercicio03" />
       <module name="estrutura_basica" />
@@ -105,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pagina_18.Exercicio07" />
+      <module name="estrutura_basica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pagina_18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio07" />
         <item itemvalue="Application.Exercicio06" />
         <item itemvalue="Application.Exercicio05" />
         <item itemvalue="Application.Exercicio04" />
         <item itemvalue="Application.Exercicio03" />
-        <item itemvalue="Application.Exercicio02" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698950542446</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Criado algorítimo para calcular o maior entre dois números.">
+      <option name="closed" value="true" />
+      <created>1698962851974</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698962851974</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +192,7 @@
     <MESSAGE value="Criado algorítimo para transformar um número negativo em positivo." />
     <MESSAGE value="Criado algorítimo para fazer soma, subtração, multiplicação e divisão entre dois números." />
     <MESSAGE value="Criado algorítimo para calcular a média de três notas e mostrar se o aluo foi aprovado ou reprovado." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado algorítimo para calcular a média de três notas e mostrar se o aluo foi aprovado ou reprovado." />
+    <MESSAGE value="Criado algorítimo para calcular o maior entre dois números." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado algorítimo para calcular o maior entre dois números." />
   </component>
 </project>
