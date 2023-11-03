@@ -1,5 +1,5 @@
-package pagina_18;
-import java.security.spec.RSAOtherPrimeInfo;
+package estrurura_condicional;
+
 public class Exercicio04 {
     public static void main(String[] args) {
         String MSG_SOMA = "A SOMA dos números %s e %s é %s";

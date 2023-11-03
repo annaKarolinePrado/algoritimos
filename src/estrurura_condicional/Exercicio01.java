@@ -1,4 +1,4 @@
-package pagina_18;
+package estrurura_condicional;
 
 public class Exercicio01 {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
-package pagina_18;
-import com.sun.source.tree.IfTree;
+package estrurura_condicional;
+
 public class Exercicio07 {
     public static void main(String[] args) {
         String MSG_INFANTIL = "%s com %s anos se enquadra na categoria INFANTIL.";

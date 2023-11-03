@@ -1,6 +1,4 @@
-package pagina_18;
-
-import java.time.Clock;
+package estrurura_condicional;
 
 public class Exercicio09 {
     public static void main(String[] args) {
