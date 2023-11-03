@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado algorítimo para calcular uma classificação de acordo com a idade informada.">
-      <change afterPath="$PROJECT_DIR$/src/pagina_18/Exercicio08.java" afterDir="false" />
+    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado algorítimo para calcular se o número informado é uma unidade, dezena ou centena.">
+      <change afterPath="$PROJECT_DIR$/src/pagina_18/Exercicio09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,20 +39,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercicio08">
-    <configuration name="Exercicio04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pagina_18.Exercicio04" />
-      <module name="estrutura_basica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pagina_18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercicio09">
     <configuration name="Exercicio05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pagina_18.Exercicio05" />
       <module name="estrutura_basica" />
@@ -105,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pagina_18.Exercicio09" />
+      <module name="estrutura_basica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pagina_18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio09" />
         <item itemvalue="Application.Exercicio08" />
         <item itemvalue="Application.Exercicio07" />
         <item itemvalue="Application.Exercicio06" />
         <item itemvalue="Application.Exercicio05" />
-        <item itemvalue="Application.Exercicio04" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698965158636</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Criado algorítimo para calcular se o número informado é uma unidade, dezena ou centena.">
+      <option name="closed" value="true" />
+      <created>1698970811554</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698970811554</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,6 +210,7 @@
     <MESSAGE value="Criado algorítimo para calcular a média de três notas e mostrar se o aluo foi aprovado ou reprovado." />
     <MESSAGE value="Criado algorítimo para calcular o maior entre dois números." />
     <MESSAGE value="Criado algorítimo para calcular uma classificação de acordo com a idade informada." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado algorítimo para calcular uma classificação de acordo com a idade informada." />
+    <MESSAGE value="Criado algorítimo para calcular se o número informado é uma unidade, dezena ou centena." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado algorítimo para calcular se o número informado é uma unidade, dezena ou centena." />
   </component>
 </project>
