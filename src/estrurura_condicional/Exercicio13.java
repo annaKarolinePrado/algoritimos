@@ -4,9 +4,9 @@ public class Exercicio13 {
         /* 13. Leia 3 números (N1, N2 e N3) e coloque-os em ordem crescente. */
         String MSG_ORDEM = "Ordem  %s  %s  %s";
 
-        float num1 = 3;
-        float num2 = 2;
-        float num3 = 1;
+        float num1 = 0;
+        float num2 = 0;
+        float num3 = 0;
         float primeiro =0;
         float segundo = 0;
         float terceiro =0;

@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado algorítimo para calcular o maior valor entre três números diferentes.">
-      <change afterPath="$PROJECT_DIR$/src/estrurura_condicional/Exercicio13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado algorítimo para ordenar três números de forma crescente." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -220,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699493037344</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Criado algorítimo para ordenar três números de forma crescente.">
+      <option name="closed" value="true" />
+      <created>1699495341445</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1699495341445</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,6 +252,7 @@
     <MESSAGE value="Criado algorítimo para verificar de acordo com a idade informada, se a pessoa é apita ou não para votar." />
     <MESSAGE value="Criado algorítimo para calcular valor a pagar de acordo com a quantidade de cópias." />
     <MESSAGE value="Criado algorítimo para calcular o maior valor entre três números diferentes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado algorítimo para calcular o maior valor entre três números diferentes." />
+    <MESSAGE value="Criado algorítimo para ordenar três números de forma crescente." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado algorítimo para ordenar três números de forma crescente." />
   </component>
 </project>
