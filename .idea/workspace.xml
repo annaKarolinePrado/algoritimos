@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado algorítimo para calcular valor a pagar de acordo com a quantidade de cópias.">
-      <change afterPath="$PROJECT_DIR$/src/estrurura_condicional/Exercicio12.java" afterDir="false" />
+    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado algorítimo para calcular o maior valor entre três números diferentes.">
+      <change afterPath="$PROJECT_DIR$/src/estrurura_condicional/Exercicio13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,20 +39,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercicio12">
-    <configuration name="Exercicio08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.Exercicio08" />
-      <module name="estrutura_basica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estrurura_condicional.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercicio13">
     <configuration name="Exercicio09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estrurura_condicional.Exercicio09" />
       <module name="estrutura_basica" />
@@ -105,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.Exercicio13" />
+      <module name="estrutura_basica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estrurura_condicional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio13" />
         <item itemvalue="Application.Exercicio12" />
         <item itemvalue="Application.Exercicio11" />
         <item itemvalue="Application.Exercicio10" />
         <item itemvalue="Application.Exercicio09" />
-        <item itemvalue="Application.Exercicio08" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698976893752</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Criado algorítimo para calcular o maior valor entre três números diferentes.">
+      <option name="closed" value="true" />
+      <created>1699493037344</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699493037344</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +246,7 @@
     <MESSAGE value="Criado algorítimo para calcular a soma ou multiplicação de acordo com maior número informado." />
     <MESSAGE value="Criado algorítimo para verificar de acordo com a idade informada, se a pessoa é apita ou não para votar." />
     <MESSAGE value="Criado algorítimo para calcular valor a pagar de acordo com a quantidade de cópias." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado algorítimo para calcular valor a pagar de acordo com a quantidade de cópias." />
+    <MESSAGE value="Criado algorítimo para calcular o maior valor entre três números diferentes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado algorítimo para calcular o maior valor entre três números diferentes." />
   </component>
 </project>
