@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado algorítimo para ordenar três números de forma crescente." />
+    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="code review">
+      <change afterPath="$PROJECT_DIR$/src/estudos/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/ExercicioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,13 +42,18 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercicio13">
-    <configuration name="Exercicio09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.Exercicio09" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="estudos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ex02">
+    <configuration name="Ex01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.Ex01" />
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estrurura_condicional.*" />
+          <option name="PATTERN" value="estudos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.Exercicio10" />
+    <configuration name="Ex02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.Ex02" />
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estrurura_condicional.*" />
+          <option name="PATTERN" value="estudos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex02" />
+        <item itemvalue="Application.Ex01" />
         <item itemvalue="Application.Exercicio13" />
         <item itemvalue="Application.Exercicio12" />
         <item itemvalue="Application.Exercicio11" />
-        <item itemvalue="Application.Exercicio10" />
-        <item itemvalue="Application.Exercicio09" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699495341445</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="code review">
+      <option name="closed" value="true" />
+      <created>1699496120246</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1699496120246</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,6 +272,7 @@
     <MESSAGE value="Criado algorítimo para calcular valor a pagar de acordo com a quantidade de cópias." />
     <MESSAGE value="Criado algorítimo para calcular o maior valor entre três números diferentes." />
     <MESSAGE value="Criado algorítimo para ordenar três números de forma crescente." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado algorítimo para ordenar três números de forma crescente." />
+    <MESSAGE value="code review" />
+    <option name="LAST_COMMIT_MESSAGE" value="code review" />
   </component>
 </project>
