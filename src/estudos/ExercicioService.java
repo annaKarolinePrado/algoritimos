@@ -10,4 +10,7 @@ public class ExercicioService {
         int mult = um * dois;
         return mult;
     }
+
+
+
 }
