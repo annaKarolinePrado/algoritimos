@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado função para multiplicar dois números.">
-      <change afterPath="$PROJECT_DIR$/src/estudos/Ex03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/ValidadorCPF.java" afterDir="false" />
+    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado função para validar um cpf.">
+      <change afterPath="$PROJECT_DIR$/src/estudos/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/ValidadorCNPJ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estudos/ExercicioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/ExercicioService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
       <recent name="estudos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex03">
+  <component name="RunManager" selected="Application.Ex04">
     <configuration name="Ex01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudos.Ex01" />
       <module name="estrutura_basica" />
@@ -86,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.Exercicio12" />
+    <configuration name="Ex04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.Ex04" />
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estrurura_condicional.*" />
+          <option name="PATTERN" value="estudos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex04" />
         <item itemvalue="Application.Ex03" />
         <item itemvalue="Application.Ex02" />
         <item itemvalue="Application.Ex01" />
         <item itemvalue="Application.Exercicio13" />
-        <item itemvalue="Application.Exercicio12" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706487943171</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Criado função para validar um cpf.">
+      <option name="closed" value="true" />
+      <created>1706749119219</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1706749119219</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,6 +288,7 @@
     <MESSAGE value="Criado algorítimo para ordenar três números de forma crescente." />
     <MESSAGE value="code review" />
     <MESSAGE value="Criado função para multiplicar dois números." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado função para multiplicar dois números." />
+    <MESSAGE value="Criado função para validar um cpf." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado função para validar um cpf." />
   </component>
 </project>
