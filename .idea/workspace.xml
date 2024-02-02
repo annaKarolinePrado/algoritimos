@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado função para validar um cpf.">
-      <change afterPath="$PROJECT_DIR$/src/estudos/Ex04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/ValidadorCNPJ.java" afterDir="false" />
+    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado função para validar um cnpj.">
+      <change afterPath="$PROJECT_DIR$/src/estudos/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/Ex05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
       <recent name="estudos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex04">
+  <component name="RunManager" selected="Application.Ex05">
     <configuration name="Ex01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudos.Ex01" />
       <module name="estrutura_basica" />
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.Exercicio13" />
+    <configuration name="Ex05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.Ex05" />
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estrurura_condicional.*" />
+          <option name="PATTERN" value="estudos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex05" />
         <item itemvalue="Application.Ex04" />
         <item itemvalue="Application.Ex03" />
         <item itemvalue="Application.Ex02" />
         <item itemvalue="Application.Ex01" />
-        <item itemvalue="Application.Exercicio13" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +258,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706749119219</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Criado função para validar um cnpj.">
+      <option name="closed" value="true" />
+      <created>1706836785534</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1706836785534</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,6 +297,7 @@
     <MESSAGE value="code review" />
     <MESSAGE value="Criado função para multiplicar dois números." />
     <MESSAGE value="Criado função para validar um cpf." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado função para validar um cpf." />
+    <MESSAGE value="Criado função para validar um cnpj." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado função para validar um cnpj." />
   </component>
 </project>
