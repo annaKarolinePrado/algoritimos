@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado função para validar um cnpj.">
-      <change afterPath="$PROJECT_DIR$/src/estudos/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/Ex05.java" afterDir="false" />
+    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado função para calcular uma divisão.">
+      <change afterPath="$PROJECT_DIR$/src/estudos/Ex06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estudos/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/Calculadora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +45,7 @@
       <recent name="estudos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex05">
-    <configuration name="Ex01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.Ex01" />
-      <module name="estrutura_basica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estudos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex06">
     <configuration name="Ex02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudos.Ex02" />
       <module name="estrutura_basica" />
@@ -111,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.Ex06" />
+      <module name="estrutura_basica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estudos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex06" />
         <item itemvalue="Application.Ex05" />
         <item itemvalue="Application.Ex04" />
         <item itemvalue="Application.Ex03" />
         <item itemvalue="Application.Ex02" />
-        <item itemvalue="Application.Ex01" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706836785534</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Criado função para calcular uma divisão.">
+      <option name="closed" value="true" />
+      <created>1706839895119</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1706839895119</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -298,6 +306,7 @@
     <MESSAGE value="Criado função para multiplicar dois números." />
     <MESSAGE value="Criado função para validar um cpf." />
     <MESSAGE value="Criado função para validar um cnpj." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado função para validar um cnpj." />
+    <MESSAGE value="Criado função para calcular uma divisão." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado função para calcular uma divisão." />
   </component>
 </project>
