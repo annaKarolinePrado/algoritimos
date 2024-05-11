@@ -1,13 +1,18 @@
 package estudos;
 
+import java.util.Scanner;
+
 public class Ex03 {
     public static void main(String[] args){
+        Scanner scanner = new Scanner(System.in);
 
         String MSG_VALIDO = "O CPF %s é válido.";
         String MSG_INVALIDO = "O CPF %s é inválido.";
 
         ValidadorCPF validadorCPF = new ValidadorCPF();
-        String cpf = "107.010.936-30";
+
+        System.out.println("Digite um nuúmero de CPF:");
+        String cpf = scanner.nextLine();
         boolean comparaCPF = validadorCPF.validarCPF(cpf);
 
         if (comparaCPF) {

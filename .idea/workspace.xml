@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado função para calcular uma divisão.">
-      <change afterPath="$PROJECT_DIR$/src/estudos/Ex06.java" afterDir="false" />
+    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado função para calcular uma divisão recebendo duas strings e retornando um double.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estudos/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estudos/Ex01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/Ex01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estudos/Ex02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/Ex02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estudos/Ex03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/Ex03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estudos/Ex04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/Ex04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estudos/Ex05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/Ex05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estudos/Ex06.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +49,20 @@
       <recent name="estudos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex06">
+  <component name="RunManager" selected="Application.Ex05">
+    <configuration name="Ex01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.Ex01" />
+      <module name="estrutura_basica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estudos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudos.Ex02" />
       <module name="estrutura_basica" />
@@ -98,26 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.Ex06" />
-      <module name="estrutura_basica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estudos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex06" />
         <item itemvalue="Application.Ex05" />
         <item itemvalue="Application.Ex04" />
         <item itemvalue="Application.Ex03" />
         <item itemvalue="Application.Ex02" />
+        <item itemvalue="Application.Ex01" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706839895119</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Criado função para calcular uma divisão recebendo duas strings e retornando um double.">
+      <option name="closed" value="true" />
+      <created>1706980540290</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1706980540290</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,6 +319,22 @@
     <MESSAGE value="Criado função para validar um cpf." />
     <MESSAGE value="Criado função para validar um cnpj." />
     <MESSAGE value="Criado função para calcular uma divisão." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado função para calcular uma divisão." />
+    <MESSAGE value="Criado função para calcular uma divisão recebendo duas strings e retornando um double." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado função para calcular uma divisão recebendo duas strings e retornando um double." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/estudos/Ex02.java</url>
+          <line>5</line>
+          <properties class="estudos.Ex02" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
