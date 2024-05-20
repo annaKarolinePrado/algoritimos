@@ -1,4 +1,4 @@
-package estrurura_condicional;
+package estrurura_condicional.exercicios;
 
 public class Exercicio11 {
     public static void main(String[] args) {

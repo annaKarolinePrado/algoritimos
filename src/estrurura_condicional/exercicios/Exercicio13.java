@@ -1,4 +1,4 @@
-package estrurura_condicional;
+package estrurura_condicional.exercicios;
 public class Exercicio13 {
     public static void main(String[] args) {
         /* 13. Leia 3 números (N1, N2 e N3) e coloque-os em ordem crescente. */
