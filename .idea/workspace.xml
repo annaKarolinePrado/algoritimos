@@ -4,22 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Alterado a estrutura para solicitar ao usuário uma informação e manipular o dado recebido.">
-      <change afterPath="$PROJECT_DIR$/src/estrurura_condicional/service/ExercicioService.java" afterDir="false" />
+    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Alterado a estrutura para solicitar ao usuário uma informação e manipular o dado recebido nos exercícios 01 a 05.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/Exercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/Exercicio04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/Exercicio05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/Exercicio06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/Exercicio07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/Exercicio08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/Exercicio09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/Exercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/Exercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/Exercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/Exercicio13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/service/ExercicioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/service/ExercicioService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,22 +57,9 @@
       <recent name="estudos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio05">
-    <configuration name="Ex01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.Ex01" />
-      <module name="estrutura_basica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estudos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.exercicios.Exercicio02" />
+  <component name="RunManager" selected="Application.Exercicio13">
+    <configuration name="Exercicio09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.exercicios.Exercicio09" />
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.exercicios.Exercicio03" />
+    <configuration name="Exercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.exercicios.Exercicio10" />
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.exercicios.Exercicio04" />
+    <configuration name="Exercicio11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.exercicios.Exercicio11" />
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +97,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.exercicios.Exercicio05" />
+    <configuration name="Exercicio12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.exercicios.Exercicio12" />
+      <module name="estrutura_basica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estrurura_condicional.exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.exercicios.Exercicio13" />
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio05" />
-        <item itemvalue="Application.Exercicio04" />
-        <item itemvalue="Application.Exercicio03" />
-        <item itemvalue="Application.Exercicio02" />
-        <item itemvalue="Application.Ex01" />
+        <item itemvalue="Application.Exercicio13" />
+        <item itemvalue="Application.Exercicio12" />
+        <item itemvalue="Application.Exercicio11" />
+        <item itemvalue="Application.Exercicio10" />
+        <item itemvalue="Application.Exercicio09" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715447910254</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Alterado a estrutura para solicitar ao usuário uma informação e manipular o dado recebido nos exercícios 01 a 05.">
+      <option name="closed" value="true" />
+      <created>1716233915900</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1716233915900</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -337,7 +345,8 @@
     <MESSAGE value="Criado função para calcular uma divisão." />
     <MESSAGE value="Criado função para calcular uma divisão recebendo duas strings e retornando um double." />
     <MESSAGE value="Alterado a estrutura para solicitar ao usuário uma informação e manipular o dado recebido." />
-    <option name="LAST_COMMIT_MESSAGE" value="Alterado a estrutura para solicitar ao usuário uma informação e manipular o dado recebido." />
+    <MESSAGE value="Alterado a estrutura para solicitar ao usuário uma informação e manipular o dado recebido nos exercícios 01 a 05." />
+    <option name="LAST_COMMIT_MESSAGE" value="Alterado a estrutura para solicitar ao usuário uma informação e manipular o dado recebido nos exercícios 01 a 05." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

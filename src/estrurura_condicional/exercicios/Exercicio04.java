@@ -38,5 +38,6 @@ public class Exercicio04 {
             System.out.println(MSG_NUM_ZERO);
         }
 
+        scanner.close();
     }
 }

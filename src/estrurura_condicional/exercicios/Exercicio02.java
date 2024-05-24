@@ -16,5 +16,7 @@ public class Exercicio02 {
         String resultado = exercicioService.verificarParImpar(numero);
 
         System.out.println(resultado);
+
+        scanner.close();
     }
 }

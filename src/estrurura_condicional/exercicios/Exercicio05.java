@@ -30,5 +30,7 @@ public class Exercicio05 {
 
         System.out.println((aprovado == true) ? String.format(MSG_APROVADO,nome,nota1,nota2,nota3,media)
                                               : String.format(MSG_REPROVADO,nome,nota1,nota2,nota3,media));
+
+        scanner.close();
     }
 }

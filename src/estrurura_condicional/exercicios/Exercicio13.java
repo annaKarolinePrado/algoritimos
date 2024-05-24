@@ -1,39 +1,23 @@
 package estrurura_condicional.exercicios;
+
+import estrurura_condicional.service.ExercicioService;
+
+import java.util.Scanner;
+
 public class Exercicio13 {
     public static void main(String[] args) {
         /* 13. Leia 3 números (N1, N2 e N3) e coloque-os em ordem crescente. */
-        String MSG_ORDEM = "Ordem  %s  %s  %s";
 
-        float num1 = 0;
-        float num2 = 0;
-        float num3 = 0;
-        float primeiro =0;
-        float segundo = 0;
-        float terceiro =0;
+        Scanner scanner = new Scanner(System.in);
+        ExercicioService exercicioService = new ExercicioService();
 
-        if((num1 != num2) && (num1 != num3) && (num2 != num3)){
-            if ((num1 > num2) && (num1 > num3)){
-                terceiro = num1;
-            } else if ((num2 > num1) && (num2 > num3)) {
-                terceiro = num2;
-            } else if ((num3 > num1) && (num3 > num2)) {
-                terceiro = num3;
-            }
-            if ((num1 < num2) && (num1 < num3)){
-                primeiro = num1;
-            } else if ((num2 < num1) && (num2 < num3)) {
-                primeiro = num2;
-            } else if ((num3 < num1) && (num3 < num2)) {
-                primeiro = num3;
-            }
-            if ((num1 > primeiro) && (num1 < terceiro)){
-                segundo = num1;
-            } else if ((num2 > primeiro) && (num2 < terceiro)) {
-                segundo = num2;
-            } else if ((num3 > primeiro) && (num3 < terceiro)) {
-                segundo = num3;
-            }
-        }
-       System.out.println(String.format(MSG_ORDEM,primeiro,segundo,terceiro));
+        System.out.print("Digite o primeiro número: ");
+        int n1 = scanner.nextInt();
+        System.out.print("Digite o segundo número: ");
+        int n2 = scanner.nextInt();
+        System.out.print("Digite o terceiro número: ");
+        int n3 = scanner.nextInt();
+
+         exercicioService.ordenarTresNumeros(n1,n2,n3);
     }
 }

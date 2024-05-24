@@ -24,5 +24,7 @@ public class Exercicio03 {
         } else{
             System.out.println(String.format(MSG_NUM_POSITIVO,numero));
         }
+
+        scanner.close();
     }
 }

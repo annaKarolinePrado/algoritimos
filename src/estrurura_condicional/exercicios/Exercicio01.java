@@ -16,5 +16,7 @@ public class Exercicio01 {
         String resultado = exercicioService.verificarMaioridade(idade);
 
         System.out.println(resultado);
+
+        scanner.close();
     }
 }
