@@ -1,6 +1,6 @@
-package estrurura_condicional.exercicios;
+package estrutura_condicional.exercicios;
 
-import estrurura_condicional.service.ExercicioService;
+import estrutura_condicional.service.ExercicioService;
 
 import java.util.Scanner;
 

@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Finalizada a alteração da estrutura para solicitar ao usuário uma informação e manipular os dados recebidos nos exercícios 01 a 13.">
-      <change afterPath="$PROJECT_DIR$/src/estrurura_condicional/exercicios/Exercicio14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrurura_condicional/service/ExercicioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrurura_condicional/service/ExercicioService.java" afterDir="false" />
-    </list>
+    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado um método que recebe dois números e, conforme o número digitado, retorna uma mensagem ao usuário." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,11 +43,11 @@
   </component>
   <component name="RunManager" selected="Application.Exercicio15">
     <configuration name="Exercicio11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.exercicios.Exercicio11" />
+      <option name="MAIN_CLASS_NAME" value="estrutura_condicional.exercicios.Exercicio11" />
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estrurura_condicional.exercicios.*" />
+          <option name="PATTERN" value="estrutura_condicional.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,11 +56,11 @@
       </method>
     </configuration>
     <configuration name="Exercicio12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.exercicios.Exercicio12" />
+      <option name="MAIN_CLASS_NAME" value="estrutura_condicional.exercicios.Exercicio12" />
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estrurura_condicional.exercicios.*" />
+          <option name="PATTERN" value="estrutura_condicional.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,11 +69,11 @@
       </method>
     </configuration>
     <configuration name="Exercicio13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.exercicios.Exercicio13" />
+      <option name="MAIN_CLASS_NAME" value="estrutura_condicional.exercicios.Exercicio13" />
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estrurura_condicional.exercicios.*" />
+          <option name="PATTERN" value="estrutura_condicional.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,11 +82,11 @@
       </method>
     </configuration>
     <configuration name="Exercicio14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.exercicios.Exercicio14" />
+      <option name="MAIN_CLASS_NAME" value="estrutura_condicional.exercicios.Exercicio14" />
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estrurura_condicional.exercicios.*" />
+          <option name="PATTERN" value="estrutura_condicional.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,7 +99,7 @@
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estrurura_condicional.exercicios.*" />
+          <option name="PATTERN" value="estrutura_condicional.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716564719380</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Criado um método que recebe dois números e, conforme o número digitado, retorna uma mensagem ao usuário.">
+      <option name="closed" value="true" />
+      <created>1718371564805</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1718371564805</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -343,7 +347,8 @@
     <MESSAGE value="Alterado a estrutura para solicitar ao usuário uma informação e manipular o dado recebido." />
     <MESSAGE value="Alterado a estrutura para solicitar ao usuário uma informação e manipular o dado recebido nos exercícios 01 a 05." />
     <MESSAGE value="Finalizada a alteração da estrutura para solicitar ao usuário uma informação e manipular os dados recebidos nos exercícios 01 a 13." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finalizada a alteração da estrutura para solicitar ao usuário uma informação e manipular os dados recebidos nos exercícios 01 a 13." />
+    <MESSAGE value="Criado um método que recebe dois números e, conforme o número digitado, retorna uma mensagem ao usuário." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado um método que recebe dois números e, conforme o número digitado, retorna uma mensagem ao usuário." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
