@@ -143,37 +143,47 @@ public class ExercicioService {
         int meio = n2;
         int menor = n3;
 
-        if ((n1 > n2) && (n1 > n3)){
+        if ((n1 > n2) && (n1 > n3)) {
             maior = n1;
-            if(n2 > n3){
+            if (n2 > n3) {
                 meio = n2;
                 menor = n3;
-            }else{
+            } else {
                 meio = n3;
                 menor = n2;
             }
         }
-        if ((n2 > n3) && (n2 > n1)){
+        if ((n2 > n3) && (n2 > n1)) {
             maior = n2;
-            if(n1 > n3){
+            if (n1 > n3) {
                 meio = n1;
                 menor = n3;
-            }else{
+            } else {
                 meio = n3;
                 menor = n1;
             }
         }
-        if ((n3 > n1) && (n3 > n2)){
+        if ((n3 > n1) && (n3 > n2)) {
             maior = n3;
-            if(n1 > n2){
+            if (n1 > n2) {
                 meio = n1;
                 menor = n2;
-            }else{
+            } else {
                 meio = n2;
                 menor = n1;
             }
         }
+        System.out.println("Ordem crescente: " + menor + "," + meio + "," + maior + ".");
+    }
 
-        System.out.println("Ordem crescente: "+ menor +","+ meio +","+ maior +".");
+    public static void validarNumero(int n1, int n2) {
+
+        if ((n1 == 0) || (n2 == 0)) {
+            System.out.println("Z");
+        } else if ((n1 > 0 && n2 > 0) || (n1 < 0 && n2 < 0)) {
+            System.out.println("M");
+        } else{
+            System.out.println("O");
+        }
     }
 }
