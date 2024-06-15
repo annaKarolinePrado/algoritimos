@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Reestruturada descrição do pacote de estrutura condicional.">
-      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/service/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/service/ExercicioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/service/ExercicioService.java" afterDir="false" />
-    </list>
+    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Implementado exercícios de 01 a 04 da lista de Estrutura de Repetição.&#10;Refatorado a descrição dos pacotes." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -340,7 +318,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718371941075</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Implementado exercícios de 01 a 04 da lista de Estrutura de Repetição.&#10;Refatorado a descrição dos pacotes.">
+      <option name="closed" value="true" />
+      <created>1718419168369</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1718419168369</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -379,7 +365,8 @@
     <MESSAGE value="Finalizada a alteração da estrutura para solicitar ao usuário uma informação e manipular os dados recebidos nos exercícios 01 a 13." />
     <MESSAGE value="Criado um método que recebe dois números e, conforme o número digitado, retorna uma mensagem ao usuário." />
     <MESSAGE value="Reestruturada descrição do pacote de estrutura condicional." />
-    <option name="LAST_COMMIT_MESSAGE" value="Reestruturada descrição do pacote de estrutura condicional." />
+    <MESSAGE value="Implementado exercícios de 01 a 04 da lista de Estrutura de Repetição.&#10;Refatorado a descrição dos pacotes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementado exercícios de 01 a 04 da lista de Estrutura de Repetição.&#10;Refatorado a descrição dos pacotes." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
