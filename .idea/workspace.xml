@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Criado um método que recebe dois números e, conforme o número digitado, retorna uma mensagem ao usuário." />
+    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Reestruturada descrição do pacote de estrutura condicional.">
+      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/service/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/exercicios/Exercicio14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/exercicios/Exercicio14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrutura_condicional/service/ExercicioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturacondicional/service/ExercicioService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,13 +63,13 @@
       <recent name="estudos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio15">
-    <configuration name="Exercicio11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estrutura_condicional.exercicios.Exercicio11" />
+  <component name="RunManager" selected="Application.Exercicio04">
+    <configuration name="Exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio01" />
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estrutura_condicional.exercicios.*" />
+          <option name="PATTERN" value="estruturaderepeticao.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estrutura_condicional.exercicios.Exercicio12" />
+    <configuration name="Exercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio02" />
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estrutura_condicional.exercicios.*" />
+          <option name="PATTERN" value="estruturaderepeticao.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estrutura_condicional.exercicios.Exercicio13" />
+    <configuration name="Exercicio03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio03" />
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estrutura_condicional.exercicios.*" />
+          <option name="PATTERN" value="estruturaderepeticao.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estrutura_condicional.exercicios.Exercicio14" />
+    <configuration name="Exercicio04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio04" />
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estrutura_condicional.exercicios.*" />
+          <option name="PATTERN" value="estruturaderepeticao.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,7 +121,7 @@
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estrutura_condicional.exercicios.*" />
+          <option name="PATTERN" value="estruturacondicional.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio04" />
+        <item itemvalue="Application.Exercicio03" />
+        <item itemvalue="Application.Exercicio02" />
+        <item itemvalue="Application.Exercicio01" />
         <item itemvalue="Application.Exercicio15" />
-        <item itemvalue="Application.Exercicio14" />
-        <item itemvalue="Application.Exercicio13" />
-        <item itemvalue="Application.Exercicio12" />
-        <item itemvalue="Application.Exercicio11" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +332,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718371564805</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Reestruturada descrição do pacote de estrutura condicional.">
+      <option name="closed" value="true" />
+      <created>1718371941075</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1718371941075</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -348,7 +378,8 @@
     <MESSAGE value="Alterado a estrutura para solicitar ao usuário uma informação e manipular o dado recebido nos exercícios 01 a 05." />
     <MESSAGE value="Finalizada a alteração da estrutura para solicitar ao usuário uma informação e manipular os dados recebidos nos exercícios 01 a 13." />
     <MESSAGE value="Criado um método que recebe dois números e, conforme o número digitado, retorna uma mensagem ao usuário." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado um método que recebe dois números e, conforme o número digitado, retorna uma mensagem ao usuário." />
+    <MESSAGE value="Reestruturada descrição do pacote de estrutura condicional." />
+    <option name="LAST_COMMIT_MESSAGE" value="Reestruturada descrição do pacote de estrutura condicional." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

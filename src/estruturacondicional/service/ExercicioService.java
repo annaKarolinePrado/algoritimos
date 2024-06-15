@@ -1,4 +1,4 @@
-package estrutura_condicional.service;
+package estruturacondicional.service;
 
 public class ExercicioService {
     final private String MSG_MAIOR_IDADE = "Maior de idade";

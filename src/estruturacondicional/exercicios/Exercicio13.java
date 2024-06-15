@@ -1,13 +1,12 @@
-package estrutura_condicional.exercicios;
+package estruturacondicional.exercicios;
 
-import estrutura_condicional.service.ExercicioService;
+import estruturacondicional.service.ExercicioService;
 
 import java.util.Scanner;
 
-public class Exercicio14 {
-//14. Dados 2 números inteiros, imprima “Z” se ao menos um deles for igual a zero,
-//“M” se tiverem o mesmo sinal, “O” se tiverem sinais opostos.
+public class Exercicio13 {
     public static void main(String[] args) {
+        /* 13. Leia 3 números (N1, N2 e N3) e coloque-os em ordem crescente. */
 
         Scanner scanner = new Scanner(System.in);
         ExercicioService exercicioService = new ExercicioService();
@@ -16,8 +15,9 @@ public class Exercicio14 {
         int n1 = scanner.nextInt();
         System.out.print("Digite o segundo número: ");
         int n2 = scanner.nextInt();
+        System.out.print("Digite o terceiro número: ");
+        int n3 = scanner.nextInt();
 
-        exercicioService.validarNumero(n1,n2);
+         exercicioService.ordenarTresNumeros(n1,n2,n3);
     }
-
 }
