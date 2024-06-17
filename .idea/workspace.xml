@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Implementado exercícios de 01 a 04 da lista de Estrutura de Repetição.&#10;Refatorado a descrição dos pacotes.">
-      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio08.java" afterDir="false" />
+    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Implementado exercícios de 05 a 08 da lista de Estrutura de Repetição.">
+      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,20 +44,7 @@
       <recent name="estudos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio08">
-    <configuration name="Exercicio04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio04" />
-      <module name="estrutura_basica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estruturaderepeticao.exercicios.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercicio09">
     <configuration name="Exercicio05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio05" />
       <module name="estrutura_basica" />
@@ -113,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio09" />
+      <module name="estrutura_basica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturaderepeticao.exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio09" />
         <item itemvalue="Application.Exercicio08" />
         <item itemvalue="Application.Exercicio07" />
         <item itemvalue="Application.Exercicio06" />
         <item itemvalue="Application.Exercicio05" />
-        <item itemvalue="Application.Exercicio04" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718419252750</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Implementado exercícios de 05 a 08 da lista de Estrutura de Repetição.">
+      <option name="closed" value="true" />
+      <created>1718637086843</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1718637086843</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -355,7 +360,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Criado projeto para estudo de lógica de programação." />
     <MESSAGE value="Criado algoritimo para validar se um número é par ou impar.." />
     <MESSAGE value="Criado algorítimo para transformar um número negativo em positivo." />
     <MESSAGE value="Criado algorítimo para fazer soma, subtração, multiplicação e divisão entre dois números." />
@@ -380,7 +384,8 @@
     <MESSAGE value="Criado um método que recebe dois números e, conforme o número digitado, retorna uma mensagem ao usuário." />
     <MESSAGE value="Reestruturada descrição do pacote de estrutura condicional." />
     <MESSAGE value="Implementado exercícios de 01 a 04 da lista de Estrutura de Repetição.&#10;Refatorado a descrição dos pacotes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementado exercícios de 01 a 04 da lista de Estrutura de Repetição.&#10;Refatorado a descrição dos pacotes." />
+    <MESSAGE value="Implementado exercícios de 05 a 08 da lista de Estrutura de Repetição." />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementado exercícios de 05 a 08 da lista de Estrutura de Repetição." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
