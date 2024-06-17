@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Implementado exercícios de 05 a 08 da lista de Estrutura de Repetição.">
-      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio09.java" afterDir="false" />
+    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Implementado exercício 09, com cálculo da temperatura média e contagem de municípios com temperatura abaixo de 10ºC.">
+      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,20 +44,7 @@
       <recent name="estudos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio09">
-    <configuration name="Exercicio05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio05" />
-      <module name="estrutura_basica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estruturaderepeticao.exercicios.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercicio10">
     <configuration name="Exercicio06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio06" />
       <module name="estrutura_basica" />
@@ -110,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio10" />
+      <module name="estrutura_basica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturaderepeticao.exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio10" />
         <item itemvalue="Application.Exercicio09" />
         <item itemvalue="Application.Exercicio08" />
         <item itemvalue="Application.Exercicio07" />
         <item itemvalue="Application.Exercicio06" />
-        <item itemvalue="Application.Exercicio05" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +345,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718637086843</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Implementado exercício 09, com cálculo da temperatura média e contagem de municípios com temperatura abaixo de 10ºC.">
+      <option name="closed" value="true" />
+      <created>1718643177298</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1718643177298</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -360,7 +368,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Criado algoritimo para validar se um número é par ou impar.." />
     <MESSAGE value="Criado algorítimo para transformar um número negativo em positivo." />
     <MESSAGE value="Criado algorítimo para fazer soma, subtração, multiplicação e divisão entre dois números." />
     <MESSAGE value="Criado algorítimo para calcular a média de três notas e mostrar se o aluo foi aprovado ou reprovado." />
@@ -385,7 +392,8 @@
     <MESSAGE value="Reestruturada descrição do pacote de estrutura condicional." />
     <MESSAGE value="Implementado exercícios de 01 a 04 da lista de Estrutura de Repetição.&#10;Refatorado a descrição dos pacotes." />
     <MESSAGE value="Implementado exercícios de 05 a 08 da lista de Estrutura de Repetição." />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementado exercícios de 05 a 08 da lista de Estrutura de Repetição." />
+    <MESSAGE value="Implementado exercício 09, com cálculo da temperatura média e contagem de municípios com temperatura abaixo de 10ºC." />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementado exercício 09, com cálculo da temperatura média e contagem de municípios com temperatura abaixo de 10ºC." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
