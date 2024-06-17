@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Implementado exercícios de 01 a 04 da lista de Estrutura de Repetição.&#10;Refatorado a descrição dos pacotes." />
+    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Implementado exercícios de 01 a 04 da lista de Estrutura de Repetição.&#10;Refatorado a descrição dos pacotes.">
+      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,46 +47,7 @@
       <recent name="estudos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio04">
-    <configuration name="Exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio01" />
-      <module name="estrutura_basica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estruturaderepeticao.exercicios.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio02" />
-      <module name="estrutura_basica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estruturaderepeticao.exercicios.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio03" />
-      <module name="estrutura_basica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estruturaderepeticao.exercicios.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercicio08">
     <configuration name="Exercicio04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio04" />
       <module name="estrutura_basica" />
@@ -94,12 +61,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estrurura_condicional.exercicios.Exercicio15" />
+    <configuration name="Exercicio05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio05" />
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturacondicional.exercicios.*" />
+          <option name="PATTERN" value="estruturaderepeticao.exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio06" />
+      <module name="estrutura_basica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturaderepeticao.exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio07" />
+      <module name="estrutura_basica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturaderepeticao.exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio08" />
+      <module name="estrutura_basica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturaderepeticao.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio08" />
+        <item itemvalue="Application.Exercicio07" />
+        <item itemvalue="Application.Exercicio06" />
+        <item itemvalue="Application.Exercicio05" />
         <item itemvalue="Application.Exercicio04" />
-        <item itemvalue="Application.Exercicio03" />
-        <item itemvalue="Application.Exercicio02" />
-        <item itemvalue="Application.Exercicio01" />
-        <item itemvalue="Application.Exercicio15" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +332,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718419168369</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Implementado exercícios de 01 a 04 da lista de Estrutura de Repetição.&#10;Refatorado a descrição dos pacotes.">
+      <option name="closed" value="true" />
+      <created>1718419252750</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1718419252750</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
