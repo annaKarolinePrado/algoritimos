@@ -4,9 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Implementado exercício 09, com cálculo da temperatura média e contagem de municípios com temperatura abaixo de 10ºC.">
-      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio10.java" afterDir="false" />
+    <list default="true" id="328d40f3-cd1d-4885-930f-e92353f55050" name="Changes" comment="Implementado exercício 10. Criado função para mostrar os 5 números seguintes a partir de um número inteiro.">
+      <change afterPath="$PROJECT_DIR$/src/estruturaderepeticao/exercicios/Exercicio11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoobjeto/abstracao/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoobjeto/abstracao/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoobjeto/abstracao/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoobjeto/abstracao/Forma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoobjeto/abstracao/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoobjeto/encapsulamento/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoobjeto/encapsulamento/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoobjeto/heranca/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoobjeto/heranca/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoobjeto/heranca/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/provas/fiesc/Exercicio02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/provas/fiesc/Exercicio05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturaderepeticao/service/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturaderepeticao/service/Service.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,25 +45,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.sourceCode"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="estudos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio10">
-    <configuration name="Exercicio06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio06" />
+  <component name="RunManager" selected="Application.Exercicio05">
+    <configuration name="Exercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="provas.fiesc.Exercicio02" />
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturaderepeticao.exercicios.*" />
+          <option name="PATTERN" value="provas.fiesc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,25 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio07" />
+    <configuration name="Exercicio05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="provas.fiesc.Exercicio05" />
       <module name="estrutura_basica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturaderepeticao.exercicios.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio08" />
-      <module name="estrutura_basica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estruturaderepeticao.exercicios.*" />
+          <option name="PATTERN" value="provas.fiesc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,13 +111,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaderepeticao.exercicios.Exercicio11" />
+      <module name="estrutura_basica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturaderepeticao.exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio05" />
+        <item itemvalue="Application.Exercicio02" />
+        <item itemvalue="Application.Exercicio11" />
         <item itemvalue="Application.Exercicio10" />
         <item itemvalue="Application.Exercicio09" />
-        <item itemvalue="Application.Exercicio08" />
-        <item itemvalue="Application.Exercicio07" />
-        <item itemvalue="Application.Exercicio06" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +367,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718643177298</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Implementado exercício 10. Criado função para mostrar os 5 números seguintes a partir de um número inteiro.">
+      <option name="closed" value="true" />
+      <created>1718645086569</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1718645086569</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -368,7 +390,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Criado algorítimo para transformar um número negativo em positivo." />
     <MESSAGE value="Criado algorítimo para fazer soma, subtração, multiplicação e divisão entre dois números." />
     <MESSAGE value="Criado algorítimo para calcular a média de três notas e mostrar se o aluo foi aprovado ou reprovado." />
     <MESSAGE value="Criado algorítimo para calcular o maior entre dois números." />
@@ -393,7 +414,8 @@
     <MESSAGE value="Implementado exercícios de 01 a 04 da lista de Estrutura de Repetição.&#10;Refatorado a descrição dos pacotes." />
     <MESSAGE value="Implementado exercícios de 05 a 08 da lista de Estrutura de Repetição." />
     <MESSAGE value="Implementado exercício 09, com cálculo da temperatura média e contagem de municípios com temperatura abaixo de 10ºC." />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementado exercício 09, com cálculo da temperatura média e contagem de municípios com temperatura abaixo de 10ºC." />
+    <MESSAGE value="Implementado exercício 10. Criado função para mostrar os 5 números seguintes a partir de um número inteiro." />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementado exercício 10. Criado função para mostrar os 5 números seguintes a partir de um número inteiro." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -409,5 +431,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
