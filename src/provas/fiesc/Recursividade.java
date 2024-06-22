@@ -1,6 +1,8 @@
 package provas.fiesc;
 
-public class Exercicio05 {
+import java.util.Scanner;
+
+public class Recursividade {
 
     public static int misterio(int n) {
         if (n == 0) {
@@ -20,7 +22,7 @@ public class Exercicio05 {
     }
 
     public static int soma(int n) {
-        if (n == 1) {// Se n for igual a 1 ele vai parar o lup?
+        if (n == 1) {
             return 1;
         } else {
             return n + soma(n - 1);
@@ -35,12 +37,21 @@ public class Exercicio05 {
         }
     }
 
-    public static void main(String[] args) {
-        System.out.println("Misterio:.... " + misterio(4));
-        System.out.println("Fatorial:.... " + fatorial(3));
-        System.out.println("Soma:........ " + soma(4));
-        System.out.println("Potencial:... " + potencia(4,2));
+    public static void repetirMensagem(){
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Digite a mensagem: ");
+        String mensagem = scanner.nextLine();
 
+        if (mensagem.equals("fim")){
+            return;
+        }else {
+            System.out.println("Digitou: " + mensagem);
+            repetirMensagem();
+        }
+    }
+
+    public static void main(String[] args) {
+        repetirMensagem();
     }
 
 
